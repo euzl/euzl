@@ -2,8 +2,7 @@
   
 # 🏖 휴식 (을 취하며 개발을 놓진 않는 중)
 ### Taking a rest with my adorable cat
-
-눈에 보이는 것, 형체가 있는 것을 좋아한다. (Android, IoT 🙆‍♀️)  
+ 
 이번 여름에는 재밌는 것을 해볼 예정이다✨
 
 <img src="https://user-images.githubusercontent.com/37680108/87256621-469a1980-c4cf-11ea-98d2-3bb47221913f.png" height="200" > <img src="https://user-images.githubusercontent.com/37680108/87256656-95e04a00-c4cf-11ea-8d3d-4d7d207bcc2b.png" height="200">
