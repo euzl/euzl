@@ -19,7 +19,7 @@
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logoColor=white&logo=notion)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logoColor=white&logo=slack)
 ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logoColor=white&logo=insomnia)
-![mocha](https://img.shields.io/badge/macha_latte-47A24B?style=for-the-badge&logoColor=white&logo=mocha)
+![mocha](https://img.shields.io/badge/matcha_latte-47A24B?style=for-the-badge&logoColor=white&logo=mocha)
 <!-- Badges are made with shields.io -->
 
 
