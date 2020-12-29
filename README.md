@@ -1,4 +1,4 @@
-## new Dean("yujin"); 🇰🇷 
+## new Dean("Yujin"); 🇰🇷 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuzl)](https://hits.seeyoufarm.com) 
 - 🎓 Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr).
 - 📚 Interested in `Android`, `UI/UX` and `IoT`.
