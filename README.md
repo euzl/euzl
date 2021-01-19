@@ -22,7 +22,7 @@
 
 
 ### To Contact me
-[![E-Mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:dldbwls1025@gmail.com)
+[![E-Mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:euzlism@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/euzl)
 [![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://euzl.github.io)
 
