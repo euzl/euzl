@@ -21,12 +21,6 @@
 <!-- Badges are made with shields.io -->
 
 
-### To Contact me
-[![E-Mail](https://img.shields.io/badge/email-D14836?style=for-the-badge&logoColor=white&logo=gmail)](mailto:leeyuding@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logoColor=white&logo=github)](https://github.com/euzl)
-[![Tech Blog](https://img.shields.io/badge/Tech%20Blog-800000?style=for-the-badge&logoColor=white&logo=blogger)](https://velog.io/@euzl)
-
-
 ### My Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euzl&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
