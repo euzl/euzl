@@ -22,8 +22,6 @@
 
 
 ### My Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=euzl&hide=html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
-
 [![EUZL's github stats](https://github-readme-stats.vercel.app/api?username=euzl&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### How about seeing a lovely cat?
