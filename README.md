@@ -1,5 +1,4 @@
 ## new Dean("Yujin"); 🇰🇷 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feuzl)](https://hits.seeyoufarm.com) 
 - 🎓 Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr).
 - 📚 Interested in `Android`, `UI/UX` and `IoT`.
 - 🎧 Music is my LIFE...
@@ -23,6 +22,3 @@
 
 ### My Stats
 [![EUZL's github stats](https://github-readme-stats.vercel.app/api?username=euzl&cound_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-### How about seeing a lovely cat?
-<img src="https://user-images.githubusercontent.com/37680108/87256621-469a1980-c4cf-11ea-98d2-3bb47221913f.png" height="110" > <img src="https://user-images.githubusercontent.com/37680108/87256656-95e04a00-c4cf-11ea-8d3d-4d7d207bcc2b.png" height="110">
