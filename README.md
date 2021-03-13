@@ -7,7 +7,7 @@
 ### Work with
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logoColor=white&logo=c)
 ![JAVA](https://img.shields.io/badge/Java-007396?style=for-the-badge&logoColor=white&logo=Java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python)<br>
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git)
 ![Jetbrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logoColor=white&logo=JetBrains)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logoColor=white&logo=Firebase)
