@@ -1,4 +1,4 @@
-## new Dean("Yujin"); 🇰🇷 
+## new Dean("`Yujin`"); 🇰🇷 
 - 🎓 Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr).
 - 📚 Interested in `Android`, `UI/UX` and `IoT`.
 - 🎧 Music is my LIFE...
