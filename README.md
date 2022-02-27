@@ -1,6 +1,6 @@
 ## new Dean("`Yujin`"); 🇰🇷 
 - 🎓 Majored in Computer Engineering at [Kyung Hee University](https://khu.ac.kr) _(2016.03 - 2021.02)_
-- 🤖 Studying Android at [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) _(2021.07 - ing)_
+- 🤖 Studying Android at [SSAFY](https://www.ssafy.com/ksp/jsp/swp/swpMain.jsp) _(2021.07 - 2022.01)_
 - 📚 Interested in `Android`, `UI/UX`
 - 🎧 Music is my LIFE...
 
